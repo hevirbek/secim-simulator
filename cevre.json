@@ -1,0 +1,183 @@
+{
+    "ANKARA": {
+        "CevreSayisi": 3,
+        "Cevreler": {
+            "1": {
+                "MilletvekiliSayisi": 13,
+                "İlceler": [
+                    "BALA",
+                    "ÇANKAYA",
+                    "ELMADAĞ",
+                    "EVREN",
+                    "GÖLBAŞI",
+                    "HAYMANA",
+                    "MAMAK",
+                    "POLATLI",
+                    "ŞEREFLİKOÇHİSAR"
+                ]
+            },
+            "2": {
+                "MilletvekiliSayisi": 11,
+                "İlceler": [
+                    "AKYURT",
+                    "ALTINDAĞ",
+                    "ÇAMLIDERE",
+                    "ÇUBUK",
+                    "GÜDÜL",
+                    "KAHRAMANKAZAN",
+                    "KALECİK",
+                    "KEÇİÖREN",
+                    "KIZILCAHAMAM",
+                    "PURSAKLAR"
+                ]
+            },
+            "3": {
+                "MilletvekiliSayisi": 12,
+                "İlceler": [
+                    "AYAŞ",
+                    "BEYPAZARI",
+                    "ETİMESGUT",
+                    "NALLIHAN",
+                    "SİNCAN",
+                    "YENİMAHALLE"
+                ]
+            }
+        }
+    },
+    "BURSA": {
+        "CevreSayisi": 2,
+        "Cevreler": {
+            "1": {
+                "MilletvekiliSayisi": 10,
+                "İlceler": [
+                    "BÜYÜKORHAN",
+                    "KARACABEY",
+                    "MUSTAFAKEMALPAŞA",
+                    "NİLÜFER",
+                    "ORHANELİ",
+                    "OSMANGAZİ"
+                ]
+            },
+            "2": {
+                "MilletvekiliSayisi": 10,
+                "İlceler": [
+                    "GEMLİK",
+                    "GÜRSU",
+                    "HARMANCIK",
+                    "İNEGÖL",
+                    "İZNİK",
+                    "KELES",
+                    "KESTEL",
+                    "MUDANYA",
+                    "ORHANGAZİ",
+                    "YENİŞEHİR",
+                    "YILDIRIM"
+                ]
+            }
+        }
+    },
+    "İSTANBUL": {
+        "CevreSayisi": 3,
+        "Cevreler": {
+            "1": {
+                "MilletvekiliSayisi": 35,
+                "İlceler": [
+                    "ADALAR",
+                    "ATAŞEHİR",
+                    "BEYKOZ",
+                    "ÇEKMEKÖY",
+                    "KADIKÖY",
+                    "KARTAL",
+                    "MALTEPE",
+                    "PENDİK",
+                    "SANCAKTEPE",
+                    "SULTANBEYLİ",
+                    "ŞİLE",
+                    "TUZLA",
+                    "ÜMRANİYE",
+                    "ÜSKÜDAR"
+                ]
+            },
+            "2": {
+                "MilletvekiliSayisi": 28,
+                "İlceler": [
+                    "BAYRAMPAŞA",
+                    "BEŞİKTAŞ",
+                    "BEYOĞLU",
+                    "ESENLER",
+                    "EYÜPSULTAN",
+                    "FATİH",
+                    "GAZİOSMANPAŞA",
+                    "KAĞITHANE",
+                    "SARIYER",
+                    "SULTANGAZİ",
+                    "ŞİŞLİ",
+                    "ZEYTİNBURNU"
+                ]
+            },
+            "3": {
+                "MilletvekiliSayisi": 35,
+                "İlceler": [
+                    "ARNAVUTKÖY",
+                    "AVCILAR",
+                    "BAĞCILAR",
+                    "BAHÇELİEVLER",
+                    "BAKIRKÖY",
+                    "BAŞAKŞEHİR",
+                    "BEYLİKDÜZÜ",
+                    "BÜYÜKÇEKMECE",
+                    "ÇATALCA",
+                    "ESENYURT",
+                    "GÜNGÖREN",
+                    "KÜÇÜKÇEKMECE",
+                    "SİLİVRİ"
+                ]
+            }
+        }
+    },
+    "İZMİR": {
+        "CevreSayisi": 2,
+        "Cevreler": {
+            "1": {
+                "MilletvekiliSayisi": 14,
+                "İlceler": [
+                    "BALÇOVA",
+                    "BUCA",
+                    "ÇEŞME",
+                    "GAZİEMİR",
+                    "GÜZELBAHÇE",
+                    "KARABAĞLAR",
+                    "KARABURUN",
+                    "KONAK",
+                    "MENDERES",
+                    "NARLIDERE",
+                    "SEFERİHİSAR",
+                    "SELÇUK",
+                    "TORBALI",
+                    "URLA"
+                ]
+            },
+            "2": {
+                "MilletvekiliSayisi": 14,
+                "İlceler": [
+                    "ALİAĞA",
+                    "BAYINDIR",
+                    "BAYRAKLI",
+                    "BERGAMA",
+                    "BEYDAĞ",
+                    "BORNOVA",
+                    "ÇİĞLİ",
+                    "DİKİLİ",
+                    "FOÇA",
+                    "KARŞIYAKA",
+                    "KEMALPAŞA",
+                    "KINIK",
+                    "KİRAZ",
+                    "MENEMEN",
+                    "ÖDEMİŞ",
+                    "TİRE"
+                ]
+            }
+        }
+    }
+}
